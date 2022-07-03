@@ -1,6 +1,6 @@
 <template>
   <div class="content">
-    <p>Nuxt2 Version</p>
+    <p>Vue3 Version</p>
     <IconifyIcon icon="openmoji:1st-place-medal" />
     <IconifyIcon icon="vscode-icons:file-type-access2" />
     <IconifyIcon icon="logos:bigpanda" />
@@ -10,19 +10,19 @@
   </div>
 </template>
 
-<script lang="js">
-import { Icon as IconifyIcon } from '@iconify/vue2';
+<script lang="ts">
+import { Icon as IconifyIcon } from "@iconify/vue";
 
 export default {
- components: {
-  IconifyIcon,
- },
+  components: {
+    IconifyIcon,
+  },
 };
 </script>
 
 <style scoped>
 .content {
-  width: 240px;
+  width: 220px;
   height: 300px;
   margin: 70px auto;
   text-align: center;

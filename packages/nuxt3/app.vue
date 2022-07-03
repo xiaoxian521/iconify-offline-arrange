@@ -22,7 +22,7 @@ export default {
 
 <style scoped>
 .content {
-  width: 300px;
+  width: 220px;
   height: 300px;
   margin: 70px auto;
   text-align: center;
