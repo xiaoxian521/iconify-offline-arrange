@@ -9,7 +9,9 @@
     "dev:nuxt2": "lerna exec \"npm run dev\" --scope @iconify/nuxt2",
     "dev:nuxt3": "lerna exec \"npm run dev\" --scope @iconify/nuxt3",
     "dev:react": "lerna exec \"npm run dev\" --scope @iconify/react",
-    "dev:preact": "lerna exec \"npm run dev\" --scope @iconify/preact"
+    "dev:preact": "lerna exec \"npm run dev\" --scope @iconify/preact",
+    "dev:next": "lerna exec \"npm run dev\" --scope @iconify/next",
+    "dev:svelte": "lerna exec \"npm run dev\" --scope @iconify/svelte"
   },
   "keywords": [
     "iconify",
