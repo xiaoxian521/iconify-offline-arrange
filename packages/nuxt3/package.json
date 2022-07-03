@@ -1,0 +1,16 @@
+{
+  "name": "@iconify/nuxt3",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.4"
+  },
+  "dependencies": {
+    "@iconify/vue": "^3.2.1"
+  }
+}

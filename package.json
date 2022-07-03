@@ -1,0 +1,27 @@
+{
+  "name": "iconify-offline-arrange",
+  "version": "0.0.0",
+  "description": "整理iconify在React、Preact、NextJs、Vue3、Vue2、Nuxt2、Nuxt3、Svelte的一键式离线图标部署使用示例",
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "dev:nuxt2": "lerna exec \"npm run dev\" --scope @iconify/nuxt2",
+    "dev:nuxt3": "lerna exec \"npm run dev\" --scope @iconify/nuxt3"
+  },
+  "keywords": [
+    "iconify",
+    "icon",
+    "React",
+    "Preact",
+    "NextJs",
+    "Vue3",
+    "Vue2",
+    "Nuxt3",
+    "Svelte",
+    "iconify-offline"
+  ],
+  "author": "xiaoxian521",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^5.1.6"
+  }
+}
