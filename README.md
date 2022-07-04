@@ -12,7 +12,7 @@
 - **丰富的Api**: 支持属性`icon`、`mode`、`inline`、`width`、`height`、`flip`、`rotate`，还有一些有用的方法等，具体可看 [Iconify Icon web component](https://docs.iconify.design/iconify-icon/) 
 - **持续维护，可靠度高**: 维护的作者对 [issues](https://github.com/iconify/iconify/issues) `响应很快`，`活跃度高`，所有图标都经过`验证`、`清理`、`优化`和`定期更新`
 - **对设计师友好**: 提供了`Iconify`插件，可直接导入到 [Figma](https://www.figma.com/)，具体看 [iconify-design-figma](https://docs.iconify.design/design/figma/)，当然也提供了导入 [Sketch](https://www.sketch.com/home/) 的方法，具体看 [iconify-design-sketch](https://docs.iconify.design/design/sketch/)
-- **完全免费**: 集中的图标都具有`开源许可`，也就是可以`商用`
+- **完全免费**: 集中的图标都具有`开源许可`，也就是基本可以`商用`
 
 ## 🫶 `iconify`生态
 
