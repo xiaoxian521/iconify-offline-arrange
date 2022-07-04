@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>HTML Version</title>
+  <style>
+    :root {
+      font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+      font-size: 16px;
+      line-height: 24px;
+      font-weight: 400;
+
+      color-scheme: light dark;
+      color: rgba(255, 255, 255, 0.87);
+      background-color: #242424;
+
+      font-synthesis: none;
+      text-rendering: optimizeLegibility;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      -webkit-text-size-adjust: 100%;
+    }
+
+    @media (prefers-color-scheme: light) {
+      :root {
+        color: #213547;
+        background-color: #ffffff;
+      }
+    }
+
+    .content {
+      width: 240px;
+      height: 300px;
+      margin: 70px auto;
+      text-align: center;
+      font-size: 30px;
+    }
+
+    .icon {
+      margin: 20px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="content">
+    <p>HTML Version</p>
+    <iconify-icon class="icon" icon="openmoji:1st-place-medal"></iconify-icon>
+    <iconify-icon class="icon" icon="vscode-icons:file-type-access2"></iconify-icon>
+    <iconify-icon class="icon" icon="logos:bigpanda"></iconify-icon>
+    <iconify-icon class="icon" icon="fxemoji:2hearts"></iconify-icon>
+    <iconify-icon class="icon" icon="flat-color-icons:businessman"></iconify-icon>
+    <iconify-icon class="icon" icon="cif:cn"></iconify-icon>
+  </div>
+</body>
+
+<script>
+  // 定义全局变量 详细查看：https://docs.iconify.design/api/providers.html
+  IconifyProviders = {
+    '': {
+      resources: [
+        'http://127.0.0.1:8084',
+      ],
+    }
+  }
+</script>
+<script src="https://cdn.jsdelivr.net/npm/iconify-icon@1.0.0-beta.2/dist/iconify-icon.min.js"></script>
+
+</html>
