@@ -1,5 +1,5 @@
 {
-	"name": "iconify-api",
+	"name": "@iconify/api",
 	"version": "0.0.0",
 	"description": "Node.js version of api.iconify.design",
 	"private": true,

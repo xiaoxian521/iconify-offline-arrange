@@ -4,6 +4,7 @@
   "description": "整理iconify在React、Preact、NextJs、Vue3、Vue2、Nuxt2、Nuxt3、Svelte的一键式离线图标部署使用示例",
   "scripts": {
     "bootstrap": "lerna bootstrap",
+    "start": "lerna exec \"npm run start\" --scope @iconify/api",
     "dev:vue2": "lerna exec \"npm run dev\" --scope @iconify/vue2",
     "dev:vue3": "lerna exec \"npm run dev\" --scope @iconify/vue3",
     "dev:nuxt2": "lerna exec \"npm run dev\" --scope @iconify/nuxt2",
