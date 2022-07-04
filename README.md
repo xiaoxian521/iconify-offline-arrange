@@ -14,6 +14,12 @@
 - **对设计师友好**: 提供了`Iconify`插件，可直接导入到 [Figma](https://www.figma.com/)，具体看 [iconify-design-figma](https://docs.iconify.design/design/figma/)，当然也提供了导入 [Sketch](https://www.sketch.com/home/) 的方法，具体看 [iconify-design-sketch](https://docs.iconify.design/design/sketch/)
 - **完全免费**: 集中的图标都具有`开源许可`，也就是可以`商用`
 
+## 🫶 `iconify`生态
+
+- 图标查找器：目前可以使用 [icones](https://icones.js.org/) 可视化图标查找器，提高开发效率，当然后面`cyberalien`会出一款官方的查找器 [icon-finder](https://docs.iconify.design/icon-finder/)
+- VsCode插件：`Iconify IntelliSense`，在编辑器里直接显示图标
+- UnoCSS：可直接写`class类名`生成图标
+
 ## 📺 视频教程（存放于bilibili）
 
 - ① 了解`iconify`图标框架
