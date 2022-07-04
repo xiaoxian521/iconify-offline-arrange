@@ -29,7 +29,7 @@
 
 ## ❤️‍🔥 捐赠（微信）
 
-如果您觉得这个项目对您有帮助，可以帮作者买个雪糕🥷 🍦 表示支持，当然一个小小的 `star`，也是对我莫大的支持哦
+收集整理不易，如果您觉得这个项目对您有帮助，可以帮作者买个雪糕🥷 🍦 表示支持，当然一个小小的 `star`，也是对我莫大的支持哦
 
 <img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f69bf13c5b854ed5b699807cafa0e3ce~tplv-k3u1fbpfcp-zoom-in-crop-mark:1304:0:0:0.awebp?" width="150px" height="150px" />
 
