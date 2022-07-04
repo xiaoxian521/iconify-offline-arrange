@@ -1,0 +1,7 @@
+.idea
+.elasticbeanstalk
+.DS_Store
+node_modules
+config.json
+*.log
+git-repos

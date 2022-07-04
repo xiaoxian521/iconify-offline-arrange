@@ -1,0 +1,31 @@
+{
+	"name": "iconify-api",
+	"version": "0.0.0",
+	"description": "Node.js version of api.iconify.design",
+	"private": true,
+	"main": "app.js",
+	"scripts": {
+		"start": "node app.js",
+		"test": "mocha tests/*_test.js"
+	},
+	"author": "Vjacheslav Trushkin",
+	"license": "MIT",
+	"bugs": "https://github.com/iconify/api.js/issues",
+	"homepage": "https://github.com/iconify/api.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/iconify/api.js.git"
+	},
+	"optionalDependencies": {
+		"@iconify/json": "latest",
+		"nodemailer": "^6.7.2"
+	},
+	"dependencies": {
+		"@iconify/json-tools": "latest",
+		"express": "^4.18.1"
+	},
+	"devDependencies": {
+		"chai": "^4.3.6",
+		"mocha": "^10.0.0"
+	}
+}
