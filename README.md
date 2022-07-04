@@ -18,7 +18,6 @@
 
 - 图标查找器：目前可以使用 [icones](https://icones.js.org/) 可视化图标查找器，提高开发效率，当然后面`cyberalien`会出一款官方的查找器 [icon-finder](https://docs.iconify.design/icon-finder/)
 - VsCode插件：`Iconify IntelliSense`，在编辑器里直接显示图标
-- UnoCSS：可直接写`class类名`生成图标
 
 ## 🚀 安装、启动项目
 
